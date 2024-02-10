@@ -32,7 +32,7 @@ Each folder contains certificates related to the topic specified by the folder's
 
 ## Contact
 
-For any inquiries or further discussion related to the certificates or collaborations, please feel free to contact me.
+Please feel free to contact me through my email engr.mansoorhayat@gmail.com.
 
 (Here you can put your GitHub profile link or any other contact information you want to share.)
 
